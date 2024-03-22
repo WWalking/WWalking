@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning about app development and experimenting with full stack coding.
 - 💞️ I’m looking to collaborate on mobile app & website developement, and any back end software development.
 - 📫 You can reach me using: 
-        +Instagram: austin_sa_2002,
         +Discord: wwalking
 
 <!---
